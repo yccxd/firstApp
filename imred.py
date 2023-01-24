@@ -1,5 +1,7 @@
 #! /usr/bin/env python3
 
+# hiihihi
+
 ##### image reduction pipeline version 221023
 # Input file structure
 #   LOT20XXXXXX/flat/		--> containing flat field and dark frame for flat reduction only
